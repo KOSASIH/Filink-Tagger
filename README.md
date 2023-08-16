@@ -1,5 +1,6 @@
 **Filink: AI-Powered File Organization Microservice**
 
+<script type="text/javascript" src="https://www.dropbox.com/static/api/2/dropins.js" id="dropboxjs" data-app-key="pcicnr5xofjj35r"></script>
 
 **Table of Contents**
 - [Introduction](#introduction)
