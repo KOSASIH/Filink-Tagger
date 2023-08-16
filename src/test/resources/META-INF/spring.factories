@@ -1,0 +1,4 @@
+org.springframework.test.context.ContextCustomizerFactory = com.kosasih.filink.\
+    config.TestContainersSpringContextCustomizerFactory,com.kosasih.filink.\
+    config.SqlTestContainersSpringContextCustomizerFactory,com.kosasih.filink.\
+    config.KafkaTestContainersSpringContextCustomizerFactory
